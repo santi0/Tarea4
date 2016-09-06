@@ -1,0 +1,54 @@
+body{
+	background-color: #d3d9df;
+	text-align: center;
+	font-family: sans-serif;
+	color:#44b69;
+	text-transform: uppercase;
+
+}
+.contenedor{
+	font-size: 40px;
+	
+}
+.contenedor span{
+	display: block;
+	font-size: 100px;
+	font-weight: bold;
+
+}
+.requisito{
+	font-size: 20px;
+	color: #6E6E6E;
+	width: 300px;
+	margin: 0 auto;
+}
+.requisito ul{
+	font-size: 40px;
+	color: #442b69;
+	text-align: left;
+}
+.requisitos ul li{
+	list-style-type: circle;
+	color: #ff6768;
+}
+li span{
+	color: #d193F3F;
+
+}
+.envianos{
+	color: #d0191e;
+}
+.envianos a {
+	display: block;
+	text-decoration: none;
+	color: #d0191e;
+	font-weight: bold;
+	text-transform: lowercase;
+
+}
+.logo{
+	font-family: Michroma, sans-serif;
+	color: black;
+	font-size: 20px;
+	
+}
